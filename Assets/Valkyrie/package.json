@@ -1,0 +1,20 @@
+{
+    "name": "com.wobling.valkyrie",
+    "version": "1.0.0",
+    "displayName": "Valkyrie",
+    "description": "A library containing common code I've used in personal projects",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "dependencies": {
+   },
+   "keywords": [
+      "Valkyrie",
+      "Library"
+    ],
+    "author": {
+      "name": "Rob Watling",
+      "email": "robmwatling@gmail.com",
+      "url": "http://robwatling.com"
+    }
+  }
+  
